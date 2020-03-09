@@ -1,2 +1,2 @@
 # Python-plots
-This repo contains examples of plots bult with seaborn and matplotlib
+This repo contains examples of plots built with seaborn and matplotlib
